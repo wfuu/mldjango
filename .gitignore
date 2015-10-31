@@ -61,3 +61,4 @@ target/
 static
 *.sqlite3
 static
+media
